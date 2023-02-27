@@ -1,0 +1,10 @@
+{
+  "name": "SQL2JSON",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "outsystems-plugin-sql2json",
+    "platforms": [
+      "android"
+    ]
+  }
+}
